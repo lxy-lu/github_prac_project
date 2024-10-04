@@ -4,4 +4,4 @@ The project is a practice at using Github.
 
 Changes added to the respository used to practice git pulling then git pushing to the Github repository.
 
-Editing done on Github.
+This was added on Github, instead of local.
